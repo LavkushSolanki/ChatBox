@@ -1,4 +1,4 @@
-# ChatBox
+# ChatBox(Build using React Native)
 ## Steps for installation
 1) <i> npm install </i>for downloading the node module folder.Run this code in both server and chatbox folder.
 2) Must have installed expo in you phone.
